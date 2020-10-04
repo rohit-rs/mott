@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[[Browser launched successfully.]]]>
+    </line>
+    <line>
+      <![CDATA[[URL url open successfully.]]]>
+    </line>
+    <line>
+      <![CDATA[[Expected title: BlazeDemo, Actual title: BlazeDemo]]]>
+    </line>
+    <line>
+      <![CDATA[[Boston is selected from Choose your departure citydropdown.]]]>
+    </line>
+    <line>
+      <![CDATA[[Berlin is selected from Choose your destination citydropdown.]]]>
+    </line>
+    <line>
+      <![CDATA[[Find Flights clicked successfully.]]]>
+    </line>
+    <line>
+      <![CDATA[[Expected title: BlazeDemo - reserve, Actual title: BlazeDemo - reserve]]]>
+    </line>
+    <line>
+      <![CDATA[[Flights from Boston to Berlin is displayed on the page.]]]>
+    </line>
+    <line>
+      <![CDATA[[Flight List Table is displayed on the page.]]]>
+    </line>
+    <line>
+      <![CDATA[[URL url open successfully.]]]>
+    </line>
+    <line>
+      <![CDATA[[Expected title: BlazeDemo, Actual title: BlazeDemo]]]>
+    </line>
+    <line>
+      <![CDATA[[Portland is selected from Choose your departure citydropdown.]]]>
+    </line>
+    <line>
+      <![CDATA[[London is selected from Choose your destination citydropdown.]]]>
+    </line>
+    <line>
+      <![CDATA[[Find Flights clicked successfully.]]]>
+    </line>
+    <line>
+      <![CDATA[[Expected title: BlazeDemo - reserve, Actual title: BlazeDemo - reserve]]]>
+    </line>
+    <line>
+      <![CDATA[[Flight List Table is displayed on the page.]]]>
+    </line>
+    <line>
+      <![CDATA[[Flight number 9696 selected for booking.]]]>
+    </line>
+    <line>
+      <![CDATA[[Expected title: BlazeDemo Purchase, Actual title: BlazeDemo Purchase]]]>
+    </line>
+    <line>
+      <![CDATA[[Your flight from TLV to SFO has been reserved is displayed on the page.]]]>
+    </line>
+    <line>
+      <![CDATA[[Flight Number is displayed on the page.]]]>
+    </line>
+    <line>
+      <![CDATA[[URL url open successfully.]]]>
+    </line>
+    <line>
+      <![CDATA[[Expected title: BlazeDemo, Actual title: BlazeDemo]]]>
+    </line>
+    <line>
+      <![CDATA[[Paris is selected from Choose your departure citydropdown.]]]>
+    </line>
+    <line>
+      <![CDATA[[Rome is selected from Choose your destination citydropdown.]]]>
+    </line>
+    <line>
+      <![CDATA[[Find Flights clicked successfully.]]]>
+    </line>
+    <line>
+      <![CDATA[[Expected title: BlazeDemo - reserve, Actual title: BlazeDemo - reserve]]]>
+    </line>
+    <line>
+      <![CDATA[[Flight number 12 selected for booking.]]]>
+    </line>
+    <line>
+      <![CDATA[[Expected title: BlazeDemo Purchase, Actual title: BlazeDemo Purchase]]]>
+    </line>
+    <line>
+      <![CDATA[[{Test} is enterted in {First Name}. ]]]>
+    </line>
+    <line>
+      <![CDATA[[{Test Address} is enterted in {Address}. ]]]>
+    </line>
+    <line>
+      <![CDATA[[{Test City} is enterted in {City}. ]]]>
+    </line>
+    <line>
+      <![CDATA[[{Test State} is enterted in {State}. ]]]>
+    </line>
+    <line>
+      <![CDATA[[{76809} is enterted in {ZIP}. ]]]>
+    </line>
+    <line>
+      <![CDATA[[American Express is selected from Card Typedropdown.]]]>
+    </line>
+    <line>
+      <![CDATA[[{8736090910109018} is enterted in {Credit Card Number}. ]]]>
+    </line>
+    <line>
+      <![CDATA[[{06} is enterted in {Month}. ]]]>
+    </line>
+    <line>
+      <![CDATA[[{2025} is enterted in {Year}. ]]]>
+    </line>
+    <line>
+      <![CDATA[[{Rohit Srivastav} is enterted in {Name On Card}. ]]]>
+    </line>
+    <line>
+      <![CDATA[[Purchase Flight clicked successfully.]]]>
+    </line>
+    <line>
+      <![CDATA[[Expected title: BlazeDemo Confirmation, Actual title: BlazeDemo Confirmation]]]>
+    </line>
+    <line>
+      <![CDATA[[Purchase Confirmation Message is displayed on the page.]]]>
+    </line>
+    <line>
+      <![CDATA[[Booking Id is not empty.]]]>
+    </line>
+    <line>
+      <![CDATA[[Status PendingCapture is displayed on the page.]]]>
+    </line>
+    <line>
+      <![CDATA[[Browser closed successfully.]]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19252" started-at="2020-10-04T18:50:43 IST" finished-at="2020-10-04T18:51:02 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19252" started-at="2020-10-04T18:50:43 IST" finished-at="2020-10-04T18:51:02 IST">
+      <class name="tests.AutomationTest1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.AutomationTest1@6c49835d]" name="beforeTest" is-config="true" duration-ms="6170" started-at="2020-10-04T18:50:43 IST" finished-at="2020-10-04T18:50:49 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[[Browser launched successfully.]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="initializeBusinessMethod()[pri:0, instance:tests.AutomationTest1@6c49835d]" name="initializeBusinessMethod" is-config="true" duration-ms="8" started-at="2020-10-04T18:50:49 IST" finished-at="2020-10-04T18:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBusinessMethod -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.AutomationTest1@6c49835d]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-10-04T18:50:49 IST" finished-at="2020-10-04T18:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="TC_01_Verify_that_user_is_able_to_search_flights()[pri:0, instance:tests.AutomationTest1@6c49835d]" name="TC_01_Verify_that_user_is_able_to_search_flights" duration-ms="1975" started-at="2020-10-04T18:50:49 IST" finished-at="2020-10-04T18:50:51 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[[URL url open successfully.]]]>
+            </line>
+            <line>
+              <![CDATA[[Expected title: BlazeDemo, Actual title: BlazeDemo]]]>
+            </line>
+            <line>
+              <![CDATA[[Boston is selected from Choose your departure citydropdown.]]]>
+            </line>
+            <line>
+              <![CDATA[[Berlin is selected from Choose your destination citydropdown.]]]>
+            </line>
+            <line>
+              <![CDATA[[Find Flights clicked successfully.]]]>
+            </line>
+            <line>
+              <![CDATA[[Expected title: BlazeDemo - reserve, Actual title: BlazeDemo - reserve]]]>
+            </line>
+            <line>
+              <![CDATA[[Flights from Boston to Berlin is displayed on the page.]]]>
+            </line>
+            <line>
+              <![CDATA[[Flight List Table is displayed on the page.]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_that_user_is_able_to_search_flights -->
+        <test-method status="PASS" signature="TC_02_Verify_that_user_is_able_to_select_a_flight_for_booking()[pri:0, instance:tests.AutomationTest1@6c49835d]" name="TC_02_Verify_that_user_is_able_to_select_a_flight_for_booking" duration-ms="2266" started-at="2020-10-04T18:50:51 IST" finished-at="2020-10-04T18:50:54 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[[URL url open successfully.]]]>
+            </line>
+            <line>
+              <![CDATA[[Expected title: BlazeDemo, Actual title: BlazeDemo]]]>
+            </line>
+            <line>
+              <![CDATA[[Portland is selected from Choose your departure citydropdown.]]]>
+            </line>
+            <line>
+              <![CDATA[[London is selected from Choose your destination citydropdown.]]]>
+            </line>
+            <line>
+              <![CDATA[[Find Flights clicked successfully.]]]>
+            </line>
+            <line>
+              <![CDATA[[Expected title: BlazeDemo - reserve, Actual title: BlazeDemo - reserve]]]>
+            </line>
+            <line>
+              <![CDATA[[Flight List Table is displayed on the page.]]]>
+            </line>
+            <line>
+              <![CDATA[[Flight number 9696 selected for booking.]]]>
+            </line>
+            <line>
+              <![CDATA[[Expected title: BlazeDemo Purchase, Actual title: BlazeDemo Purchase]]]>
+            </line>
+            <line>
+              <![CDATA[[Your flight from TLV to SFO has been reserved is displayed on the page.]]]>
+            </line>
+            <line>
+              <![CDATA[[Flight Number is displayed on the page.]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_02_Verify_that_user_is_able_to_select_a_flight_for_booking -->
+        <test-method status="PASS" signature="TC_03_Verify_that_user_is_able_to_book_a_flight()[pri:0, instance:tests.AutomationTest1@6c49835d]" name="TC_03_Verify_that_user_is_able_to_book_a_flight" duration-ms="7998" started-at="2020-10-04T18:50:54 IST" finished-at="2020-10-04T18:51:02 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[[URL url open successfully.]]]>
+            </line>
+            <line>
+              <![CDATA[[Expected title: BlazeDemo, Actual title: BlazeDemo]]]>
+            </line>
+            <line>
+              <![CDATA[[Paris is selected from Choose your departure citydropdown.]]]>
+            </line>
+            <line>
+              <![CDATA[[Rome is selected from Choose your destination citydropdown.]]]>
+            </line>
+            <line>
+              <![CDATA[[Find Flights clicked successfully.]]]>
+            </line>
+            <line>
+              <![CDATA[[Expected title: BlazeDemo - reserve, Actual title: BlazeDemo - reserve]]]>
+            </line>
+            <line>
+              <![CDATA[[Flight number 12 selected for booking.]]]>
+            </line>
+            <line>
+              <![CDATA[[Expected title: BlazeDemo Purchase, Actual title: BlazeDemo Purchase]]]>
+            </line>
+            <line>
+              <![CDATA[[{Test} is enterted in {First Name}. ]]]>
+            </line>
+            <line>
+              <![CDATA[[{Test Address} is enterted in {Address}. ]]]>
+            </line>
+            <line>
+              <![CDATA[[{Test City} is enterted in {City}. ]]]>
+            </line>
+            <line>
+              <![CDATA[[{Test State} is enterted in {State}. ]]]>
+            </line>
+            <line>
+              <![CDATA[[{76809} is enterted in {ZIP}. ]]]>
+            </line>
+            <line>
+              <![CDATA[[American Express is selected from Card Typedropdown.]]]>
+            </line>
+            <line>
+              <![CDATA[[{8736090910109018} is enterted in {Credit Card Number}. ]]]>
+            </line>
+            <line>
+              <![CDATA[[{06} is enterted in {Month}. ]]]>
+            </line>
+            <line>
+              <![CDATA[[{2025} is enterted in {Year}. ]]]>
+            </line>
+            <line>
+              <![CDATA[[{Rohit Srivastav} is enterted in {Name On Card}. ]]]>
+            </line>
+            <line>
+              <![CDATA[[Purchase Flight clicked successfully.]]]>
+            </line>
+            <line>
+              <![CDATA[[Expected title: BlazeDemo Confirmation, Actual title: BlazeDemo Confirmation]]]>
+            </line>
+            <line>
+              <![CDATA[[Purchase Confirmation Message is displayed on the page.]]]>
+            </line>
+            <line>
+              <![CDATA[[Booking Id is not empty.]]]>
+            </line>
+            <line>
+              <![CDATA[[Status PendingCapture is displayed on the page.]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_03_Verify_that_user_is_able_to_book_a_flight -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.AutomationTest1@6c49835d]" name="afterTest" is-config="true" duration-ms="790" started-at="2020-10-04T18:51:02 IST" finished-at="2020-10-04T18:51:02 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[[Browser closed successfully.]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.AutomationTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
